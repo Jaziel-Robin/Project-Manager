@@ -1,2 +1,2 @@
 # Project-Manager
-Created using tree data structure in C#
+Created using Tree Data Structure in C#
